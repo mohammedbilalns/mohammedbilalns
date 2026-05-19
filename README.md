@@ -1,18 +1,45 @@
+# Mohammed Bilal
 
+**Developer**
 
+Developer passionate About solving problemsn and  Building Scalable Systems
 
+Location: Kerala, India
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-bilal-18a5ba104) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-bilal-ns) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bilalnsmuhammed@gmail.com)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohammedbilalns&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedbilalns&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedbilalns&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Snapshot
 
----
-[![](https://visitcount.itsvg.in/api?id=mohammedbilalns&icon=1&color=12)](https://visitcount.itsvg.in)
+- ⌖ **Location** · Kerala, India
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,python,ts,go,bash,lua,html,css&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,tailwind&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,supabase,firebase,prisma&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,linux,nginx,githubactions&theme=dark" alt="DevOps & Cloud"/>
+
+## Languages
+- 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
+- 🌐 **Malayalam** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+
+## GitHub Signals
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammedbilalns&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammedbilalns&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+[Say hello](https://www.linkedin.com/in/mohammed-bilal-ns)
