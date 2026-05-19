@@ -24,7 +24,7 @@ Location: Kerala, India
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,supabase,firebase,prisma&theme=dark" alt="Backend & Databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,supabase,firebase,prisma,rabbitmq&theme=dark" alt="Backend & Databases"/>
 
 **DevOps & Cloud**
 
