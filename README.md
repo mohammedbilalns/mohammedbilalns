@@ -2,7 +2,7 @@
 
 **Developer**
 
-Developer passionate About solving problemsn and  Building Scalable Systems
+Developer passionate About solving Real world problems and  Building Scalable Systems
 
 Location: Kerala, India
 
