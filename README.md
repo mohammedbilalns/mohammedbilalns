@@ -8,8 +8,6 @@ Location: Kerala, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-bilal-ns) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bilalnsmuhammed@gmail.com)
 
-## Snapshot
-
 - ⌖ **Location** · Kerala, India
 
 ## Stack
